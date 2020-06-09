@@ -1,3 +1,13 @@
 .float-left {
     float: left;
 }
+
+.navbar-default .navbar-brand {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: teal;
+}
