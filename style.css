@@ -19,3 +19,7 @@ body {
 .container {
     background: white;
 }
+
+img {
+    margin: 10px;
+}
